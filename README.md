@@ -17,6 +17,6 @@ Selamat! Kamu sudah membuka dashboard secara lokal di browser kamu!
 ## How to Open Dashboard - Online by url
 Untuk membuka dashboard secara online dengan url/link, ketikkan link ini di browsermu :
 ```
-https://hafizhadashboard.streamlit.app/
+https://hafizhaaghniaprojectdashboard.streamlit.app/
 ```
 Atau kamu bisa mengklik [link ini](https://hafizhaaghniaprojectdashboard.streamlit.app/)
