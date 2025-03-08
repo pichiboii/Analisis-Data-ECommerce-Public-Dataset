@@ -19,4 +19,4 @@ Untuk membuka dashboard secara online dengan url/link, ketikkan link ini di brow
 ```
 https://hafizhadashboard.streamlit.app/
 ```
-Atau kamu bisa mengklik [link ini](https://hafizhadashboard.streamlit.app/)
+Atau kamu bisa mengklik [link ini](https://hafizhaaghniaprojectdashboard.streamlit.app/)
