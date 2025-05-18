@@ -1,5 +1,5 @@
 # 🛒 Analisis Data: E-Commerce Public Dataset
-Project Analisis Data dengan Python *Coding Camp 2025 by DBS Foundation* oleh Hafizha Aghnia Hasya
+Project Analisis Data dengan Python *Coding Camp 2025 by DBS Foundation* oleh Hafizha Aghnia Hasya <br>
 Proyek ini bertujuan untuk melakukan analisis menyeluruh terhadap dataset e-commerce publik. Fokus utama dari proyek ini adalah menggali insight bisnis dari data transaksi pelanggan melalui tahapan data wrangling, analisis eksploratif, visualisasi, hingga penyajian dalam bentuk dashboard interaktif menggunakan Streamlit.
 
 ## 🔍 Alur Analisis
